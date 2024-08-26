@@ -21,7 +21,7 @@ ScrollReveal().reveal(".header__container form", {
 
 ScrollReveal().reveal(".header__container a", {
     ...scrollRevealOption,
-    delay: 1500,
+    delay: 1200,
 });
 
 const swiper = new Swiper(".swiper", {
